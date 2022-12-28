@@ -1,6 +1,6 @@
-# ToDo-s-React
+# ToDo-React
 
-NewsFlip web application was build using React.js and it's single page app or more over this app is supported infinity scrolling functionality using pre define React-Infinity-scroll npm module.
+This was a ToDo's listing Web Application for the user. User can write there today success list over here and maintain they work checklisting for more productivity. This web app build using React.js. It's javascript library for easy to multiple time use same component.
 
 CREATED BY : Akhil Rangpariya (H)
 
@@ -79,7 +79,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-### Introduce Git & GitHub
+# Introduce Git & GitHub
 
 1.Firstly, fork the Repository. This will make an exact copy of the original repository into your Github Account.
 
