@@ -1,3 +1,13 @@
+# ToDo-s-React
+
+NewsFlip web application was build using React.js and it's single page app or more over this app is supported infinity scrolling functionality using pre define React-Infinity-scroll npm module.
+
+CREATED BY : Akhil Rangpariya (H)
+
+![image](https://user-images.githubusercontent.com/99761772/209705754-61366c6f-bfa3-4a79-a9cd-6be6aaa7a459.png)
+
+![image](https://user-images.githubusercontent.com/99761772/209807057-8748616a-479e-4088-8d18-d27f1e0799ae.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -9,10 +19,10 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
 
 ### `npm test`
 
@@ -31,13 +41,13 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
 ## Learn More
 
@@ -68,3 +78,25 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Introduce Git & GitHub
+
+1.Firstly, fork the Repository. This will make an exact copy of the original repository into your Github Account.
+
+2.Copy the URL of the Repository by clickling on a Code button.
+
+3.Create a new folder in your PC and then open the folder in VS code.
+
+4.Now, Open VS code Terminal and execute the git clone [URL] command.
+
+5.You can now make changes in the project.
+
+6.After making changes, execute the git add . command.
+
+7.Then execute git commnit -m "message".
+
+8.Execute git push command and this will push the code to your repository.
+
+9.Now you can create a new pull/merge request from your Github login.
+
+10.Wait for the Owner to accept your pull/merge request
